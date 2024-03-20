@@ -5,8 +5,6 @@ def main():
         print("DISCOUNT")
     print("BOARD")
 
-    return
-
 
 if __name__ == '__main__':
     main()
