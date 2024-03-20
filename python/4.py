@@ -1,3 +1,5 @@
+# 
+
 def main():
     score = int(input())
 

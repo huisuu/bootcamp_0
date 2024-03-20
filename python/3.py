@@ -1,3 +1,5 @@
+# 
+
 def main():
     hour = int(input())
 

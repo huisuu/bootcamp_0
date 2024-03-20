@@ -1,3 +1,5 @@
+# 
+
 def main():
     while True:
         n = int(input())

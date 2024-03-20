@@ -1,3 +1,5 @@
+# 
+
 def main():
     num = input()
     reversed_num = num[::-1]
