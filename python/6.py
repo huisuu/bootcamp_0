@@ -4,7 +4,13 @@
 """
 
 def main():
-    # 이곳에 코드를 작성해주세요!
+    letter = input()
+
+    if letter in ['a', 'e', 'i', 'o', 'u']:
+        print("O")
+    else:
+        print("X")
+
 
     return
 
